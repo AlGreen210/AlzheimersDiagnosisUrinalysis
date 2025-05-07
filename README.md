@@ -116,11 +116,10 @@ The results from the Logistic Regression model trained on the Decision Tree deri
 
 ## 7.) Extension:
 
-1. Expand Dataset:
-2. Collect Repeated Samples over the Disease Progression:
-3. Incorperate More Information Available from CSV Report:
-4. Employ Decision Curve Anaylsis and Patient Stratification:
-
+1. Expand Dataset: Partner with hospitals and other health organizations in an effort to increase the amount and diversity of samples provided.
+2. Collect Repeated Samples over the Disease Progression: Collecting samples over the course of time will allow us to study disease progression and better position our model to predict Alzheimer’s disease as early as possible 
+3. Incorperate More Information Available from CSV Report: For this project I relied on emPAI values which are estimated ratios based on peptides present using aditional information sources from the mass spectrometry report like molecular charge, amino acid residue, peptide sequence, and peptide variations.
+4. Employ Decision Curve Anaylsis and Patient Stratification: Since this dataset didn't provide any demographic data on age or race we can't be sure that certain groups aren't being neglected. 
 
 ## 8.) Citation:
 
