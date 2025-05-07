@@ -36,12 +36,12 @@ CSV files: [Molecular Network Analysis of the Urinary Proteome of Alzheimer's Di
 ## 3.) Project Structure:
 
 1. 01_data 
-2. 02_code  
-    - 0.5_protein_sequence.ipynb   
+2. 02_code    
     - 01_DataPreprocessing.ipynb    
     - 02_EDA_urine_samples.ipynb  
     - 03_DT_FeatureImportance.ipynb
-    - 04_LogRegClassificationModel.ipynb   
+    - 04_LogRegClassificationModel.ipynb
+    -  05_protein_sequence.ipynb    
 3. 03_additional_datasets  
 4. 04_images  
     - 3D Protein_Abundance.png  
